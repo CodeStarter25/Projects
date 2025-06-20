@@ -1,2 +1,4 @@
 # Projects
-This is a repo for some of the projects completed.
+This repo is to showcase some of the projects i had to complete for courses throughout my learning. You will find 2 project folders:
+* Brain Squeeze
+* CLI Password Manager
